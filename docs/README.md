@@ -19,7 +19,7 @@ Projeto G6 - FCTEDesapega, baseado em sites de anúncio de algo que não interes
       </tr>
       <tr>
       <td align="center"><a href="https://github.com/GabrielSMonteiro"><img style="border-radius: 50%;" src="https://github.com/GabrielSMonteiro.png" width="130px;" alt=""/><br /><sub><b>Gabriel Santos</b></sub></a><br /></td>
-      <td align="center"><a href=" https://github.com/Karolina91"><img style="border-radius: 50%;" src=" https://github.com/Karolina91.png" width="130px;" alt=""/><br /><sub><b>Karolina Vieira</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Karolina91"><img style="border-radius: 50%;" src="https://github.com/Karolina91.png" width="130px;" alt=""/><br /><sub><b>Karolina Vieira</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/Marianannn"><img style="border-radius: 50%;" src="https://github.com/Marianannn.png" width="130px;" alt=""/><br /><sub><b>Mariana Letícia</b></sub></a></td>
       <td align="center"><a href="https://github.com/paolaalim"><img style="border-radius: 50%;" src="https://github.com/paolaalim.png" width="130px;" alt=""/><br /><sub><b>Paola Rebeca</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/RenataKurzawa"><img style="border-radius: 50%;" src="https://github.com/RenataKurzawa.png" width="130px;" alt=""/><br /><sub><b>Renata Kurzawa</b></sub></a></td>
