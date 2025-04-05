@@ -12,7 +12,7 @@ Projeto G6 - FCTEDesapega, baseado em sites de anúncio de algo que não interes
   <table>
     <tr>
       <td align="center"><a href="https://github.com/arthur-suares"><img style="border-radius: 50%;" src="https://github.com/arthur-suares.png" width="130px;" alt=""/><br /><sub><b>Arthur Miranda</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/ccarlaa"><img style="border-radius: 50%;" src="https://github.com/ccarlaa.png" width="130px;" alt=""/><br /><sub><b>Carol</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/ccarlaa"><img style="border-radius: 50%;" src="https://github.com/ccarlaa.png" width="130px;" alt=""/><br /><sub><b>Carla de Araujo</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/danialarcao"><img style="border-radius: 50%;" src="https://github.com/danialarcao.png" width="130px;" alt=""/><br /><sub><b>Daniela Alarcão</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/Jagaima"><img style="border-radius: 50%;" src="https://github.com/Jagaima.png" width="130px;" alt=""/><br /><sub><b>Davi Nobre</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/erteduarda"><img style="border-radius: 50%;" src="https://github.com/erteduarda.png" width="130px;" alt=""/><br /><sub><b>Eduarda Tavares</b></sub></a><br /></td>
