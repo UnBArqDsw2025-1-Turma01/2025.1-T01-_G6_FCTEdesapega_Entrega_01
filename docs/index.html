@@ -7,6 +7,25 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    /* Remove qualquer ícone antes do texto */
+    .sidebar ul li > a::before {
+      content: none;
+    }
+    
+    /* Adiciona seta depois do texto, só para itens com submenu */
+    .sidebar ul li:has(ul) > a::after {
+      content: "▶";
+      display: inline-block;
+      margin-left: 6px;
+      transition: transform 0.2s ease;
+    }
+    
+    /* Gira a seta quando expandido */
+    .sidebar ul li:has(ul).open > a::after {
+      transform: rotate(90deg);
+    }
+    </style>    
 </head>
 <body>
   <div id="app"></div>
@@ -14,10 +33,14 @@
     window.$docsify = {
       loadSidebar: true,
       name: 'FCTEdesapega',
-      repo: 'https://github.com/UnBArqDsw2025-1-Turma01/2025.1-T01-_G6_FCTEdesapega_Entrega_01/tree/main'
+      repo: 'https://github.com/UnBArqDsw2025-1-Turma01/2025.1-T01-_G6_FCTEdesapega_Entrega_01/tree/main',
+      plugins: [
+      window.DocsifySidebarCollapse
+    ]
   }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 </html>
