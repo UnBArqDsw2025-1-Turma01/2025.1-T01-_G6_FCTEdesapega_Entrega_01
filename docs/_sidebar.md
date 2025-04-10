@@ -27,6 +27,7 @@
       - [1.3.2 Questionário](Base/1.3.TecnicasElicitacao/1.3.2.Questionario.md)
     - [**1.4. Técnicas de Priorização**](#)
       - [1.4.1 Moscow](Base/1.4.TecnicasPriorizacao/1.4.1.moscow.md)
+      - [1.4.2 Plano de Risco](Base/1.4.TecnicasPriorizacao/1.4.2.PlanoRisco.md)
     - [**1.5. Prototipagem**](#)
       - [1.5.1 Protótipo de Alta Fidelidade](Base/1.5.Prototipagem/1.5.1.prototipo-alta-fidelidade.md)
     - [**1.6. Verificação & Validação**](#)
