@@ -82,3 +82,27 @@ Este Código de Conduta foi inspirado em:
 - Boas práticas para ambientes colaborativos online e offline
 
 ---
+
+<p align="center"><strong> Histórico de Versões</strong></p>
+
+<table style="margin: auto; width: 60%; border-collapse: collapse;" border="1" cellpadding="8">
+  <thead>
+    <tr>
+      <th style="text-align: center;">Versão</th>
+      <th style="text-align: center;">Data</th>
+      <th style="text-align: center;">Descrição</th>
+      <th style="text-align: center;">Autor(es)</th>
+      <th style="text-align: center;">Revisor(es)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center;">1.0</td>
+      <td style="text-align: center;">10/04/2025</td>
+      <td style="text-align: center;">Criação do documento.</td>
+      <td style="text-align: center;"><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
+      <td style="text-align: center;"></td>
+    </tr>
+  </tbody>
+
+</table>
