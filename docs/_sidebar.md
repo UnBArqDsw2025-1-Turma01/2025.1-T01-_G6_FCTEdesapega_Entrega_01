@@ -29,6 +29,7 @@
       - [1.4.1 Moscow](Base/1.4.TecnicasPriorizacao/1.4.1.moscow.md)
     - [**1.5. Prototipagem**](#)
       - [1.5.1 Protótipo de Alta Fidelidade](Base/1.5.Prototipagem/1.5.1.prototipo-alta-fidelidade.md)
+      - [1.5.2 Identidade Visual](Base/1.5.Prototipagem/1.5.2.id-visual.md)
     - [**1.6. Verificação & Validação**](#)
       - [1.6.1 Verificação & Validação](Base/1.6.Verificacao&Validacao/1.6.1.verirficacao&validacao.md)
     - [**1.7. Modelagem BPMN**](#)
