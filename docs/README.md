@@ -9,7 +9,7 @@
 ## Sobre
 
 Projeto G6 - **FCTEDesapega**, baseado em sites de anúncio de algo que não interessa mais para alguém, mas pode ser valoroso para outros, podendo ser em versão site, desktop ou aplicativo móvel. Aqui, espera-se um software mirado na comunidade FCTE, com possibilidade de anúncios de algo que não mais é desejado, suas características, valor ou doação ou troca, dentre outros.
----
+
 
 ## Integrantes
 
