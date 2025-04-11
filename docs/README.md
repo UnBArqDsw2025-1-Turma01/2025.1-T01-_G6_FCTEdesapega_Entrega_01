@@ -44,19 +44,12 @@ Projeto G6 - **FCTEDesapega**, baseado em sites de anúncio de algo que não int
 
 ### Primeira Entrega
 
-#### Artefatos Generalistas
-
-* [Design Sprint](/docs/Base/xxxxxxxxxx)
-* [Artefatos Generalistas](/docs/Base/xxxxxxxxxx)
-* [BPMN da metodologia de desenvolvimento](/docs/Base/xxxxxxxxxx)
+* [Design Sprint](/docs/Base/1.1.DesignSprint.md)
+* [Artefatos Generalistas](/docs/Base/1.2.ArtefatoGeneralista.md)
+* [BPMN da metodologia de desenvolvimento](/docs/Base/1.3.ModelagemBPMN.md)
 
 ---
 
-### Screenshots da Primeira Entrega
-
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
-
----
 
 ## Tecnologia
 
